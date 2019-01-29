@@ -1,0 +1,196 @@
+body {
+    background-color:#cdced2;
+    height: 900px;
+}
+
+.navbar {
+    height: 30px;
+    background-color: white;
+}
+
+.container-fluid {
+    padding-left: 10%;
+}
+.navbar-header {
+    background-color:  #43bab4 ;
+    color: white;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 18px;
+    border-left: 30%;
+}
+
+
+
+.box {
+    position: relative;
+    width: auto;
+    height: auto;
+    background-color:white;
+}
+
+.box-1 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.box-2 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.box-3 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+.box-4 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+.compbox-1 {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.compbox-2 {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    top: 50%;
+}
+
+.compbox-3 {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+.compbox-4 {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: 15px;
+    margin-bottom: 45px;
+    bottom: 50%;
+}
+
+.tablepad {
+    position: relative;
+    margin: 20px 20px 20px 20px;
+}
+
+.tut {
+    font-family: Arial Bold;
+    color: #43bab4;
+    padding: 25px 0px 0px 25px;
+    font-weight: bold;
+}
+
+.tut1 {
+    font-family: Arial Bold;
+    font-size: 18pt;
+    color: white;
+    font-weight: bold;
+}
+
+.temp {
+    width: 350px;
+    height: 250px;
+    float: left;
+    
+}
+/* Max Temp Visualization Page */
+.maxtemp {
+    position: relative;
+    width: 450px;
+    height: 350px;
+    margin-left: 50px;
+    margin-right: auto;
+}
+
+.maxtempbox {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    margin-right: auto;
+    margin-left: 25px;
+    margin-bottom: 45px;
+    top: 50%;
+    border-width: 2px;
+    border-color: #43bab4;
+    border-style: solid;
+}
+
+.p1 {
+    font-size: 12pt;
+    line-height: 2;
+    padding: 10px 30px 10px 15px;
+    text-align: justify;
+}
+
+hr {
+    position: relative;
+    width: 90%;
+    align-self: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 45px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .footer1 {
+    position: fixed;
+    left: 0;
+    bottom: 45px;
+    width: 100%;
+    height: 10px;
+    background-color: #43bab4;
+  }
